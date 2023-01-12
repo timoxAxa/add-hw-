@@ -11,7 +11,7 @@
 // Убрать все не желательные элементы 
 // let arr = ['hello', null, 0, true, false, 1, undefined, '', NaN]
 // for (let i = arr.length - 1; i >= 0; i--) {
-//   if (arr[i] == null) {
+//   if (arr[i] == null) {k
 //     arr.splice(i, 1);
 //   } else if (arr[i] == false) {
 //     arr.splice(i, 1);
